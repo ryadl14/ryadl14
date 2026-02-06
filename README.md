@@ -1,5 +1,5 @@
 # 💫 About Me:
-MSc Applied Bioinformatics student.<br><br>Interests include biostatistics, data science and AI/ML.
+MSc Applied Bioinformatics student.<br>Interests include biostatistics, data science and AI/ML.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ MSc Applied Bioinformatics student.<br><br>Interests include biostatistics, data
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ryadl14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ryadl14&icon=0&color=0)](https://visitcount.itsvg.in)
